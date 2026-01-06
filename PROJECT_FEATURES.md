@@ -7,3 +7,7 @@ This feature enables smooth interoperability while maintaining performance, scal
 The System Management & Support feature ensures the platform operates reliably and efficiently at all times.
 **Status: To be added**
 
+## feature/T-21:Travel Agency Update Automation Gateway
+This board develops the automated system that ensures integrated travel agencies receive verified, real-time flight updates for their clients' bookings. The system will monitor booking status changes, schedule modifications, and check-in events, then format and transmit these updates to agency systems via secure APIs or webhooks. Updates will be batched or real-time based on agency preference and include full itinerary details, passenger status, and any actionable items (e.g., Check-in now open). A verification layer will confirm the accuracy of information before transmission. Agencies will have a dedicated portal to view update logs, configure notification preferences, and manually refresh booking data. The system will handle retries for failed deliveries and provide delivery status reports. Integration with agency back-office systems ensures updates are reflected in their internal tools and customer communications. This automation reduces manual phone calls and emails, improving accuracy and efficiency for both airlines and agencies. The system must be highly reliable, as agencies depend on this data for customer service.
+** Status: Implemented**
+Finished
