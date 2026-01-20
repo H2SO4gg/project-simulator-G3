@@ -7,6 +7,9 @@ This feature enables smooth interoperability while maintaining performance, scal
 The System Management & Support feature ensures the platform operates reliably and efficiently at all times.
 **Status: To be added**
 
+## T-31: Implement User Login Page
+This board develops the centralized repository and interface for users to access their booking history, itineraries, and travel documents.
+Status: Implemented
 ## T-9: Booking History & Digital Itinerary 
 This board develops the centralized repository and interface for users to access their booking history, itineraries, and travel documents. 
 Status: Implemented
