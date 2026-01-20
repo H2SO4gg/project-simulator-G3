@@ -7,3 +7,6 @@ This feature enables smooth interoperability while maintaining performance, scal
 The System Management & Support feature ensures the platform operates reliably and efficiently at all times.
 **Status: To be added**
 
+## T-30: Partner API Gateway & Integration Platform 
+This board builds the secure API gateway and integration platform that enables external systems, primarily travel agencies and partners, to connect with the airline's platform.  
+Status : Implemented
