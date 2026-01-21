@@ -7,6 +7,13 @@ This feature enables smooth interoperability while maintaining performance, scal
 The System Management & Support feature ensures the platform operates reliably and efficiently at all times.
 **Status: To be added**
 
+This board oversees the development of the digital check-in system, allowing passengers to check in online, select or confirm seats, and receive mobile boarding passes.
+Status:Implemented
+
+## T-16:Integrated Customer Service Chat & Messaging
+This board oversees the implementation of a real-time, integrated chat and messaging system connecting passengers with customer service agents. The chat interface will be accessible within the mobile app and web portal, allowing passengers to ask questions about bookings, baggage, flight changes, or policies. The system will include intelligent routing to appropriate agent groups (sales, support, baggage claims) based on query analysis. Features include file sharing (for baggage photos, document uploads), chat history persistence, and agent assignment with load balancing. For common queries, canned responses and AI-suggested answers will improve efficiency. Integration with the passenger's booking record allows agents to see context without asking for PNRs repeatedly. The system supports proactive chat invitations during booking abandonment or flight disruptions. A post-chat survey will collect customer satisfaction (CSAT) scores. The backend will include agent performance dashboards, chat volume analytics, and audit trails for quality assurance. Security measures encrypt all messages and ensure PCI compliance if payment details are shared.
+**Status: Implemented**
+
 ## T-31: Implement User Login Page
 This board develops the centralized repository and interface for users to access their booking history, itineraries, and travel documents.
 Status: Implemented
